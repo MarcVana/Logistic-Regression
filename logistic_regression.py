@@ -107,14 +107,4 @@ for i in range(len(name)):
         print('did not survive')
     else:
         print('did survive')
-    
-
-
-
-
-
-
-
-
-
-
+# end
